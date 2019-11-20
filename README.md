@@ -223,7 +223,7 @@ While reviewing the running result of the `Data Audit` node, we observe that som
 
     ![Associate Service Settings](docs/images/back2modelerflow01.png)
 
-2. Expand the `Records` section in the `Palette` pane on the left.
+2. Expand the `Record Operations` section in the `Palette` pane on the left.
 
     ![Associate Service Settings](docs/images/palette03.png)
 
@@ -264,9 +264,9 @@ Data is clean now, and we can proceed with building the model.
 
     ![Associate Service Settings](docs/images/2nodes03.png)
 
-1. Double click the `Select` node or right click to open it.
+1. Double click the `Type` node or right click to open it.
 
-1. Choose Configure Types to `Read Metadata` aunder the `Default Mode`.
+1. Choose Configure Types to `Read Metadata` under the `Default Mode`.
 
     ![Associate Service Settings](docs/images/typenode.png)
 
