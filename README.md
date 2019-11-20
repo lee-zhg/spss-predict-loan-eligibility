@@ -328,6 +328,8 @@ Loan eligibility has two possible outvome - either Y:Yes or N:No. Thus, the choi
 
 1. Select `Loan_Status` as the `Target`.
 
+1. Select `Add Columns`.
+
 1. Select all the remaining attributes as input except `Partition` and `Loan_ID`. 
 
     ![Associate Service Settings](docs/images/bayesnet.gif)
@@ -336,12 +338,12 @@ Loan eligibility has two possible outvome - either Y:Yes or N:No. Thus, the choi
 
 1. Right click the `Bayes Net` node, then select `Run`. In a few seconds, a model is created in an orange colored node.
 
-Right click on the orange colored node, then click on View.
+Right click on the orange colored node, then click on `View Model`.
 Now you can see the Network Graph and other model information here.
 
 #### Step 7. View Model
 
-1. Right click on the orange-colored model node, then select on `View`.
+1. Right click on the orange-colored model node, then select on `View Model`.
 
 1. Now you can see the Network Graph and other model information here.
 
