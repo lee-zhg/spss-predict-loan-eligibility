@@ -148,7 +148,7 @@ Complete the steps below to develop, create, deploy and test the model while int
 1. `Create`.
 
 
-### 5. Create SPSS Model
+### 6. Create SPSS Model
 
 Now, you are ready to create SPSS model.
 
