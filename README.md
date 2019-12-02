@@ -276,9 +276,9 @@ Data is clean now, and we can proceed with building the model.
 
     >> Node, without these two steps, you won't get desired result.
 
-1. Make sure that the `Role` of filed `Loan_Status` is `Target`.
+1. Make sure that the `Role` of field `Loan_Status` is `Target`.
 
-1. Make sure that the Role of the filed `LoanID` is `Record ID`.
+1. Make sure that the Role of the field `LoanID` is `Record ID`.
 
     ![Associate Service Settings](docs/images/typenode.gif)
 
